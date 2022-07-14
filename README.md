@@ -1,2 +1,2 @@
-# Spark-Foundation-Intern-solutions
+# Spark-Foundation-Internship projects
 Internship Tasks
